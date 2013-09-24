@@ -7,6 +7,9 @@ Changelog
 #. Added very simple validation for uploaded images.
 #. Added new config variable called `CKEDITOR_BROWSEABLE_UPLOADED_IMAGES` to activate / desactivate thumbnail creation when
    we don't want the user to browse his uploaded images.
+#. Fixing ckeditor in inlines admin
+#. Remove deprecation django.conf.urls.defaults
+#.
 
 4.0.2
 -----
